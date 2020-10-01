@@ -22,7 +22,7 @@ Additional experimental data can be found via https://doi.org/10.4121/c.5136125.
 The code is written in MATLAB, and tested to work in MATLAB R2018-R2020. The DIPImage toolbox for MATLAB is required, please see http://www.diplib.org for installation instructions.
 
 
-### Further questions
+## Further questions
 For further questions feel free to create an issue on GitHub. You can also contact the authors:
 
 Christiaan N. Hulleman (c.n.hulleman@tudelft.nl)
