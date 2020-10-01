@@ -8,7 +8,7 @@ Any reuse of this code should cite the original associated publication.
 
 The code uses a vectorial point-spread-function model to perform a maximum likelihood estimate on single-molecule emitters. The parameters of interest are the emitter position, photon counts, and orientation together with rotational constraint. The found values are used to calculate the Cramer-Rao Lower Bound (CRLB) for each parameter, and the CRLBs are returned along with the estimated parameters.
 
-## Example Usage
+## Using vecfitcpu
 Several examples of how to use the code on simulated and experimental data are shown in the following MATLAB scripts
 
 - vecfitcpu_vortex_simfits.m
