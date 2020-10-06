@@ -36,3 +36,12 @@ Bernd Rieger (b.rieger@tudelft.nl)
 ## Reference
 
 If you find this code useful for your research, please cite
+```
+@article {Hulleman2020.10.01.322834,
+	author = {Hulleman, Christiaan N. and Thorsen, Rasmus {\O}. and Stallinga, Sjoerd and Rieger, Bernd},
+	title = {Simultaneous orientation and 3D localization microscopy with a Vortex point spread function},
+	year = {2020},
+	doi = {10.1101/2020.10.01.322834},
+	journal = {bioRxiv}
+}
+```
